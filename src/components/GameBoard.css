@@ -1,0 +1,28 @@
+.appGameBoard {
+  display: flex;
+  padding: 10px;
+}
+
+.game {
+  width: 560px;
+  height: 560px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(252, 197, 185);
+}
+
+.game img {
+  width: 70px;
+  height: 70px;
+}
+
+.score-board {
+  margin-left: 20px;
+  padding: 20px;
+  height: 520px;
+  width: 620px;
+  color: white;
+  background-color: rgb(252, 197, 185);
+  border-radius: 8px;
+}
+
